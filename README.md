@@ -1,0 +1,2 @@
+This repository contains access to the design artifact and resulting data from the research paper, _More Than A Martyr: Fostering Empathy with Interactive Storytelling in the Matthew Shepard Murder_ by Thomas Walker, Interactive Design and Game Development MFA student at Savannah College of Art and Design (SCAD).
+You can visit the website of the test with [this link]([url](https://studentpages.scad.edu/~twalke29/Matthew.html)).
